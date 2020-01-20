@@ -1,7 +1,5 @@
 const path = require('path');
 
-
-
 module.exports = (env) => {
     const isProduction = env === 'production';
 
