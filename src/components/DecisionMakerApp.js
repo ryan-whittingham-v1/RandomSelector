@@ -69,7 +69,7 @@ export default class DecisionMakerApp extends React.Component {
 
 
     render() {
-        const title = 'Decision Maker 2000';
+        const title = 'Indecisive App';
         const subtitle = 'A randomized item selector';
 
 
